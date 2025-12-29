@@ -2,10 +2,11 @@
   "version": "5.0.25",
   "download_url": "https://github.com/enzoplaaygamemg12/Redux/releases/download/v5.0.25/Redux_Installer.exe",
   "changes": [
-    "Sistema de Auto-Update Silencioso",
-    "Melhoria na velocidade de injeção",
+    "Sistema de Auto-Update (corrigido)",
+    "Melhoria na velocidade de injeção (New Injector)",
     "Correção de crash no Roblox",
     "Novo Log de Atualização na UI",
-    "Suporte para múltiplas instâncias"
+    "Suporte para 5 múltiplas instancias",
+    "Fixed Botao Open Folder (pasta do auto exec,dataloader,etc...)"
   ]
 }

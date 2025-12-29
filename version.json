@@ -1,5 +1,5 @@
 {
-  "version": "5.0.24",
+  "version": "5.0.25",
   "changes": [
     "Sistema de Auto-Update adicionado",
     "Melhoria na velocidade de injeção",
@@ -7,5 +7,5 @@
     "New Injection",
     "Log Update"
   ],
-  "download_url": "https://link_da_sua_release_aqui.exe"
+  "download_url": "https://github.com/enzoplaaygamemg12/Redux/releases/download/v5.0.25/ReduxUILoader.Setup.3.4.25.exe"
 }

@@ -1,5 +1,11 @@
 {
-  "version": "5.0.25",
-  "changes": ["New Injector", "[^]Fixed Time key"],
-  "download_url": "https://seusite.com/downloads/ReduxSetup.exe"
+  "version": "5.0.24",
+  "changes": [
+    "Sistema de Auto-Update adicionado",
+    "Melhoria na velocidade de injeção",
+    "Correção de bugs na aba Settings",
+    "New Injection",
+    "Log Update"
+  ],
+  "download_url": "https://link_da_sua_release_aqui.exe"
 }
